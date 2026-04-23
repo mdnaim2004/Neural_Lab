@@ -14,7 +14,7 @@ class Stud:
             return "F"
 
 
-# ======= main function =========
+# main function....
 name = input("Enter your name : ")
 marks = int(input("Enter your marks : "))   # FIXED
 
